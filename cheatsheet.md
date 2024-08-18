@@ -79,3 +79,26 @@ graph TD
     A --> D(QPixMap)
     A --> E(QPrinter)
 ```
+
+<em>Here is a select list of frequently used widgets:</em>
+
+### Qt Widgets
+
+| Widget | Description |
+| --- | --- |
+| QLabel | Used to display text or image |
+| QLineEdit | Allows the user to enter one line of text |
+| QTextEdit | Allows the user to enter multi-line text |
+| QPushButton | A command button to invoke action |
+| QRadioButton | Enables to choose one from multiple options |
+| QCheckBox | Enables choice of more than one options |
+| QSpinBox | Enables to increase/decrease an integer value |
+| QScrollBar | Enables to access contents of a widget beyond display aperture |
+| QSlider | Enables to change the bound value linearly. |
+| QComboBox | Provides a dropdown list of items to select from |
+| QMenuBar | Horizontal bar holding QMenu objects |
+| QStatusBar | Usually at bottom of QMainWindow, provides status information. |
+| QToolBar | Usually at top of QMainWindow or floating. Contains action buttons |
+| QListView | Provides a selectable list of items in ListMode or IconMode |
+| QPixmap | Off-screen image representation for display on QLabel or QPushButton object |
+| QDialog | Modal or modeless window which can be used for many purposes |
